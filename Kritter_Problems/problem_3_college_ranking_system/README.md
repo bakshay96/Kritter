@@ -60,7 +60,6 @@ A list of colleges that match the user’s preferences, sorted by their score in
    Output the list of colleges that meet the user's preferences, along with their calculated scores.
 
 ---
-
 ```
 
 ### [Back to Main Documentation](../../README.md)
