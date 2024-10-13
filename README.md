@@ -1,9 +1,10 @@
 # Kritter
 # Kritter Problems
 
-'''
-#Welcome to the **Kritter Problems** repository! This project contains various problem statements with their corresponding solutions, explained step by step for ease of understanding.
-'''
+
+## Welcome to the **Kritter Problems** repository! This project contains various problem statements with their corresponding solutions, explained step by step for ease of understanding.
+
+
 ## Table of Contents
 
 

@@ -50,4 +50,5 @@ A single normalized string in camel case.
 
 ---
 
-### [Back to Main Documentation](../README.md)
+ [Back to Main Documentation](../README.md)
+[Problem 1: Normalize an Input String](./Kritter_Problems/problem_1_normalize_string/README.md)
