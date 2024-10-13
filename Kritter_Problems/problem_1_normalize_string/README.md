@@ -49,9 +49,7 @@ A single normalized string in camel case.
    The `split(' ')` method splits the string into words by spaces. Then, `map()` is used to capitalize the first letter of each word, and the remaining letters are converted to lowercase. Finally, the words are joined back together using `join(' ')`.
 
 ---
-
-
-
+```
 
 ### [Back to Main Documentation](../../README.md)
 

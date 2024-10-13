@@ -61,4 +61,7 @@ A list of colleges that match the user’s preferences, sorted by their score in
 
 ---
 
-### [Back to Main Documentation](../README.md)
+```
+
+### [Back to Main Documentation](../../README.md)
+
