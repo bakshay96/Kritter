@@ -1,0 +1,17 @@
+{
+  "name": "kritter-backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "backend",
+    "js",
+    "oops",
+    "class"
+  ],
+  "author": "Akshay Bombatkar",
+  "license": "ISC"
+}
