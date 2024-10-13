@@ -28,3 +28,19 @@ Kritter_Problems/
 │   ├── collegeRankingSystem.js
 │   └── README.md
 └── README.md          # Main documentation (this file)
+
+```
+## How to Run
+
+### Prerequisites:
+- Node.js (Version 14 or higher)
+
+### Steps to Run:
+1. Clone the repository.
+2. Navigate to the `src` directory.
+3. Run the following command:
+
+```bash
+node normalizeString.js
+
+
